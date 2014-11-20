@@ -1,4 +1,6 @@
-#droppy [![star this repo](http://github-svg-buttons.herokuapp.com/star.svg?user=silverwind&repo=droppy&style=flat)](https://github.com/silverwind/droppy) [![fork this repo](http://github-svg-buttons.herokuapp.com/fork.svg?user=silverwind&repo=droppy&style=flat)](https://github.com/silverwind/droppy/fork) [![NPM version](https://img.shields.io/npm/v/droppy.svg?style=flat)](https://www.npmjs.org/package/droppy) [![Dependency Status](http://img.shields.io/david/silverwind/droppy.svg?style=flat)](https://david-dm.org/silverwind/droppy) [![Downloads per month](http://img.shields.io/npm/dm/droppy.svg?style=flat)](https://www.npmjs.org/package/droppy)
+#droppy 
+
+[![star this repo](http://github-svg-buttons.herokuapp.com/star.svg?user=silverwind&repo=droppy&style=flat)](https://github.com/silverwind/droppy) [![fork this repo](http://github-svg-buttons.herokuapp.com/fork.svg?user=silverwind&repo=droppy&style=flat)](https://github.com/silverwind/droppy/fork) [![NPM version](https://img.shields.io/npm/v/droppy.svg?style=flat)](https://www.npmjs.org/package/droppy) [![Dependency Status](http://img.shields.io/david/silverwind/droppy.svg?style=flat)](https://david-dm.org/silverwind/droppy) [![Downloads per month](http://img.shields.io/npm/dm/droppy.svg?style=flat)](https://www.npmjs.org/package/droppy)
 > Personal file server with a modern web interface
 
 ###Features
